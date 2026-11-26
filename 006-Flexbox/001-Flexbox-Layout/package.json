@@ -1,0 +1,11 @@
+{
+  "name": "006-flexbox-001-flexbox-layout",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "html-validate \"**/*.html\" && node --test"
+  },
+  "devDependencies": {
+    "html-validate": "11.21.1"
+  }
+}

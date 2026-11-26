@@ -1,0 +1,11 @@
+{
+  "name": "007-media-queries-003-media-queries-in-typography",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "html-validate \"**/*.html\" && node --test"
+  },
+  "devDependencies": {
+    "html-validate": "11.21.1"
+  }
+}

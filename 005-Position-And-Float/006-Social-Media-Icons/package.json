@@ -1,0 +1,11 @@
+{
+  "name": "005-position-and-float-006-social-media-icons",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "html-validate \"**/*.html\" && node --test"
+  },
+  "devDependencies": {
+    "html-validate": "11.21.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "005-position-and-float-007-interior-design-studio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "html-validate \"**/*.html\" && node --test"
+  },
+  "devDependencies": {
+    "html-validate": "11.21.1"
+  }
+}

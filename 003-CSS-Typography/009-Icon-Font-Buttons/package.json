@@ -1,0 +1,11 @@
+{
+  "name": "003-css-typography-009-icon-font-buttons",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "html-validate \"**/*.html\" && node --test"
+  },
+  "devDependencies": {
+    "html-validate": "11.21.1"
+  }
+}

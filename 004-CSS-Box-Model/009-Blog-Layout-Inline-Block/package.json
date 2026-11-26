@@ -1,0 +1,11 @@
+{
+  "name": "004-css-box-model-009-blog-layout-inline-block",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "html-validate \"**/*.html\" && node --test"
+  },
+  "devDependencies": {
+    "html-validate": "11.21.1"
+  }
+}
